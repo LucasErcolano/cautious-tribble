@@ -3066,3 +3066,8 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [21:59:22] [Server thread/INFO]: MiliHoffman left the game
 [21:59:22] [Server thread/INFO]: remove player wand
 [21:59:22] [Server thread/INFO]: Updating all forceload tickets for 18b2a631-856d-34d0-96ef-b5129a615cf0
+[21:59:38] [Server thread/INFO]: LuScarlet lost connection: Disconnected
+[21:59:38] [Server thread/INFO]: LuScarlet left the game
+[21:59:38] [Server thread/INFO]: remove player wand
+[21:59:38] [Server thread/INFO]: Updating all forceload tickets for 9570e1d2-3a1a-3ae0-b9cb-21f465fd43f9
+[21:59:38] [Server thread/WARN]: handleDisconnection() called twice

@@ -4002,6 +4002,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/daggers/dagger_the_beginning": {
+    "criteria": {
+      "has_obsidian": "2025-02-17 21:56:56 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/miner_pottery_sherd": {
     "criteria": {
       "has_iron_pickaxe": "2025-02-17 21:55:04 +0000"
@@ -4011,6 +4017,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-02-17 21:51:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/grinder": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-17 21:56:55 +0000"
     },
     "done": true
   },
@@ -4029,6 +4041,12 @@
   "betterend:recipes/misc/guide_book": {
     "criteria": {
       "has_book": "2025-02-17 21:49:51 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/obsidian_witch_altar": {
+    "criteria": {
+      "has_item": "2025-02-17 21:56:56 +0000"
     },
     "done": true
   },
@@ -4062,6 +4080,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing_alt": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-17 21:56:55 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/iron_ingot_from_pickaxe": {
     "criteria": {
       "has_iron_pickaxe": "2025-02-17 21:55:04 +0000"
@@ -4086,9 +4110,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-17 21:56:56 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/umbrella_tree_bookshelf": {
     "criteria": {
       "has_book": "2025-02-17 21:49:51 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_obsidian": "2025-02-17 21:56:56 +0000"
     },
     "done": true
   },
@@ -4131,6 +4167,18 @@
   "betternether:recipes/transportation/nether_mushroom_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-02-17 21:46:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-17 21:58:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/obsidian_plate_from_block": {
+    "criteria": {
+      "has_obsidian": "2025-02-17 21:56:56 +0000"
     },
     "done": true
   },
@@ -4188,6 +4236,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-17 21:56:56 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_tile_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-17 21:51:48 +0000"
@@ -4197,6 +4251,12 @@
   "betternether:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-02-17 21:46:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/compressor": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-17 21:56:55 +0000"
     },
     "done": true
   },
@@ -4260,6 +4320,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-17 21:56:56 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-17 21:49:51 +0000"
@@ -4275,6 +4341,12 @@
   "travelersbackpack:recipes/misc/standard_no_tanks": {
     "criteria": {
       "has_chest": "2025-02-17 21:46:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-17 21:56:43 +0000"
     },
     "done": true
   },
@@ -4326,6 +4398,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/canning_machine": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-17 21:56:55 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/lucernia_bookshelf": {
     "criteria": {
       "has_book": "2025-02-17 21:49:51 +0000"
@@ -4344,6 +4422,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_slabs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_slabs": "2025-02-17 21:58:09 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_sandstone_tiles_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-17 21:51:48 +0000"
@@ -4353,6 +4437,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-17 21:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-17 21:56:43 +0000"
     },
     "done": true
   },
@@ -4404,6 +4494,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-02-17 21:56:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_paver_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-17 21:51:48 +0000"
@@ -4413,6 +4509,12 @@
   "techreborn:recipes/crafting_table/misc_block/rubber_fence": {
     "criteria": {
       "has_rubber_planks": "2025-02-17 21:53:51 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_obsidian_claymore": {
+    "criteria": {
+      "has_obsidian": "2025-02-17 21:56:56 +0000"
     },
     "done": true
   },
@@ -4500,6 +4602,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/daggers/dagger_the_end": {
+    "criteria": {
+      "has_obsidian": "2025-02-17 21:56:56 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/lantern": {
     "criteria": {
       "has_torch": "2025-02-17 21:51:48 +0000"
@@ -4536,6 +4644,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-17 21:58:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-02-17 21:51:48 +0000"
@@ -4554,6 +4668,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-02-17 21:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-17 21:56:56 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/rubber_fence_gate": {
     "criteria": {
       "has_rubber_planks": "2025-02-17 21:53:51 +0000"
@@ -4569,6 +4695,12 @@
   "betternether:recipes/transportation/warped_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-02-17 21:46:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-02-17 21:58:09 +0000"
     },
     "done": true
   },
@@ -4674,6 +4806,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/extractor": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-17 21:56:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-17 21:56:43 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/end_stone_smelter": {
     "criteria": {
       "has_tag_c_furnaces": "2025-02-17 21:48:09 +0000"
@@ -4689,6 +4833,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-17 21:51:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-17 21:56:55 +0000"
     },
     "done": true
   },
@@ -4728,6 +4878,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/rubber_pressure_plate_from_slab": {
+    "criteria": {
+      "has_rubber_slab": "2025-02-17 21:58:09 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/punch_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-17 21:49:51 +0000"
@@ -4737,6 +4893,12 @@
   "bewitchment:recipes/decorations/witch_cauldron": {
     "criteria": {
       "has_item": "2025-02-17 21:48:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-02-17 21:58:09 +0000"
     },
     "done": true
   },
@@ -4782,6 +4944,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-17 21:58:09 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-17 21:56:56 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/efficiency_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-17 21:49:51 +0000"
@@ -4818,6 +4992,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-17 21:56:56 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/blast_protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-17 21:49:51 +0000"
@@ -4836,9 +5016,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-17 21:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-02-17 21:56:56 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-17 21:51:48 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_sinister": {
+    "criteria": {
+      "has_obsidian": "2025-02-17 21:56:56 +0000"
     },
     "done": true
   },
@@ -4890,6 +5088,12 @@
     },
     "done": true
   },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-02-17 21:58:09 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/luck_of_sea_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-17 21:49:51 +0000"
@@ -4899,6 +5103,12 @@
   "oxidized:recipes/copper_kiln": {
     "criteria": {
       "has_copper_block": "2025-02-17 21:48:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/advanced_machine_frame": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-17 21:56:55 +0000"
     },
     "done": true
   },
@@ -4926,6 +5136,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-17 21:56:43 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/impaling_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-17 21:49:51 +0000"
@@ -4938,9 +5154,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/cage": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-17 21:58:09 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_tile_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-17 21:51:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/advanced_solar_panel_alt": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-17 21:56:55 +0000"
     },
     "done": true
   },
@@ -4992,9 +5220,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-17 21:56:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_brick_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-17 21:51:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-17 21:56:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-17 21:56:56 +0000"
     },
     "done": true
   },
@@ -5016,9 +5262,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-17 21:58:09 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/sharpness_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-17 21:49:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-17 21:56:43 +0000"
     },
     "done": true
   },
@@ -5046,9 +5304,33 @@
     },
     "done": true
   },
+  "mcdw:recipes/daggers/dagger_void_touched_blade": {
+    "criteria": {
+      "has_obsidian": "2025-02-17 21:56:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-17 21:56:56 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-17 21:51:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-17 21:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-17 21:56:43 +0000"
     },
     "done": true
   },
@@ -5064,6 +5346,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-17 21:56:56 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/wart_bookshelf": {
     "criteria": {
       "has_book": "2025-02-17 21:49:51 +0000"
@@ -5073,6 +5361,12 @@
   "betterend:recipes/misc/projectile_protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-17 21:49:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:machineblock": {
+    "criteria": {
+      "crit_0": "2025-02-17 21:56:55 +0000"
     },
     "done": true
   },
@@ -5094,6 +5388,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-17 21:58:09 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/dune_armor_trim_smithing_template": {
     "criteria": {
       "has_sandstone": "2025-02-17 21:51:48 +0000"
@@ -5106,9 +5406,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-17 21:56:43 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/plenty_pottery_sherd": {
     "criteria": {
       "has_chest": "2025-02-17 21:46:37 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-17 21:56:56 +0000"
     },
     "done": true
   },
@@ -5127,6 +5439,12 @@
   "betterend:recipes/misc/bane_of_arthropods_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-17 21:49:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile": {
+    "criteria": {
+      "has_obsidian": "2025-02-17 21:56:56 +0000"
     },
     "done": true
   },
@@ -5175,6 +5493,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-02-17 21:55:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-17 21:56:43 +0000"
     },
     "done": true
   },
