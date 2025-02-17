@@ -158,6 +158,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2025-02-17 22:58:35 +0000",
       "pine_taiga": "2025-02-17 21:19:43 +0000",
       "grassy_beach": "2025-02-17 21:28:30 +0000",
       "towering_cliffs": "2025-02-17 22:48:58 +0000"
@@ -186,6 +187,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2025-02-17 22:58:35 +0000",
       "pine_taiga": "2025-02-17 21:19:43 +0000",
       "grassy_beach": "2025-02-17 21:28:30 +0000",
       "towering_cliffs": "2025-02-17 22:48:58 +0000"
@@ -611,7 +613,9 @@
       "minecraft:birch_forest": "2025-02-17 21:22:26 +0000",
       "minecraft:beach": "2025-02-17 21:28:20 +0000",
       "minecraft:river": "2025-02-17 22:50:36 +0000",
-      "minecraft:windswept_forest": "2025-02-17 22:48:59 +0000"
+      "minecraft:forest": "2025-02-17 22:56:08 +0000",
+      "minecraft:windswept_forest": "2025-02-17 22:48:59 +0000",
+      "minecraft:plains": "2025-02-17 22:58:21 +0000"
     },
     "done": false
   },
@@ -5223,6 +5227,132 @@
   "smallships:recipes/transportation/cherry_cog": {
     "criteria": {
       "in_water": "2025-02-17 22:50:27 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartypalm_tall_torch": {
+    "criteria": {
+      "has_the_recipe": "2025-02-17 22:56:53 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_nocturnal_bow": {
+    "criteria": {
+      "has_soul_soil": "2025-02-17 22:56:22 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_tall_torch": {
+    "criteria": {
+      "has_coal": "2025-02-17 22:56:53 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_soul_hunter": {
+    "criteria": {
+      "has_soul_soil": "2025-02-17 22:56:22 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
+    "criteria": {
+      "has_soul_soil": "2025-02-17 22:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-17 22:56:22 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_feral_soul": {
+    "criteria": {
+      "has_soul_soil": "2025-02-17 22:56:22 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_haunted_bow": {
+    "criteria": {
+      "has_soul_soil": "2025-02-17 22:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-02-17 22:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-02-17 22:58:35 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_bass": {
+    "criteria": {
+      "has_bass": "2025-02-17 22:55:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-02-17 22:58:35 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_soul": {
+    "criteria": {
+      "has_soul_soil": "2025-02-17 22:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-17 22:56:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-02-17 22:59:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_dumplings": {
+    "criteria": {
+      "has_chicken": "2025-02-17 22:58:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fried_chicken": {
+    "criteria": {
+      "has_chicken": "2025-02-17 22:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-02-17 22:56:53 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_rice": {
+    "criteria": {
+      "has_chicken": "2025-02-17 22:58:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_noodles": {
+    "criteria": {
+      "has_chicken": "2025-02-17 22:58:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/soul_soil": {
+    "criteria": {
+      "has_soul_soil": "2025-02-17 22:56:22 +0000"
     },
     "done": true
   },

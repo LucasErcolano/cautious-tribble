@@ -2550,3 +2550,30 @@ BCLib - The End  BiomeSource (557b9f8d)
 [22:51:40] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player MiliHoffman. Claiming: GRAVE / Robbing: INVENTORY
 [22:51:51] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of MiliHoffman accepted server config.
 [22:53:47] [Server thread/INFO]: MiliHoffman has made the advancement [This Must be a Sign!]
+[22:55:15] [Server thread/INFO]: [Handshake] Sending channel query
+[22:55:15] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[22:55:15] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[22:55:16] [Server thread/INFO]: 76hz[/127.89.186.47:42871] logged in with entity id 5422 at (94.09150333421151, 60.79312804570564, 479.4393421349972)
+[22:55:16] [Server thread/INFO]: Sending server config values to client
+[22:55:16] [Server thread/INFO]: Syncing config to 76hz (40ae40ee-0ffd-3c8c-8d98-efc3655ac159)
+[22:55:16] [Server thread/INFO]: Loading config from file...
+[22:55:16] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22:55:16] [Server thread/INFO]: 76hz joined the game
+[22:55:16] [Server thread/INFO]: Loading Configs for Sortilege
+[22:55:16] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[22:55:16] [Server thread/INFO]: Updating all forceload tickets for 40ae40ee-0ffd-3c8c-8d98-efc3655ac159
+[22:55:16] [Server thread/INFO]: PLAYER_JOIN
+[22:55:16] [Server thread/INFO]: add_player wand
+[22:55:16] [Server thread/INFO]: config sent
+[22:55:17] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[22:55:18] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: 76hz -> Global
+[22:55:18] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player 76hz. Claiming: GRAVE / Robbing: INVENTORY
+[22:55:20] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of 76hz accepted server config.
+[22:58:23] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mushroom], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / ctov:large/village_dark_forest], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_dark_forest], ResourceKey[minecraft:worldgen/structure / ctov:small/village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:small/village_underground], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands]] from pos class_2338{x=-229, y=70, z=635}
+[22:58:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4250ms or 85 ticks behind
+[22:58:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7318ms or 146 ticks behind
+[22:59:38] [Server thread/INFO]: 76hz has made the advancement [This Must be a Sign!]
+[23:01:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4157ms or 83 ticks behind
+[23:02:08] [Server thread/INFO]: 76hz has made the advancement [Create: Estrogen]
+[23:04:06] [Server thread/INFO]: Villager class_1646['Kris'/211, l='ServerLevel[world]', x=122.12, y=72.00, z=166.49] died, message: 'Kris was slain by Zombie'
+[23:04:06] [Server thread/INFO]: Named entity class_1646['Kris'/211, l='ServerLevel[world]', x=122.12, y=72.00, z=166.49] died: Kris was slain by Zombie
