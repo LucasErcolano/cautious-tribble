@@ -2709,3 +2709,7 @@ BCLib - The End  BiomeSource (557b9f8d)
 [23:13:20] [Server thread/INFO]: LuScarlet has made the advancement [Acquire Hardware]
 [23:15:39] [Server thread/INFO]: LuScarlet has made the advancement [A Seedy Place]
 [23:22:01] [Server thread/INFO]: LuScarlet has made the advancement [False Water]
+[23:30:20] [Server thread/INFO]: LuScarlet has made the advancement [Suit Up]
+[23:32:46] [Server thread/INFO]: Villager class_1646['Karleen'/193, l='ServerLevel[world]', x=153.49, y=85.05, z=154.70] died, message: 'Karleen was slain by Zombie'
+[23:32:46] [Server thread/INFO]: Named entity class_1646['Karleen'/193, l='ServerLevel[world]', x=153.49, y=85.05, z=154.70] died: Karleen was slain by Zombie
+[23:34:00] [Server thread/INFO]: MiliHoffman has made the advancement [A Seedy Place]
