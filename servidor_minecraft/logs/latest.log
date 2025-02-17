@@ -2947,3 +2947,56 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
 [21:19:17] [Server thread/INFO]: MiliHoffman has made the advancement [Sky of Beginning]
+[21:19:42] [Server thread/INFO]: [Handshake] Sending channel query
+[21:19:42] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[21:19:42] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[21:19:42] [Server thread/INFO]: 76hz[/127.89.186.47:55725] logged in with entity id 4762 at (4.5, 74.0, -1.5)
+[21:19:42] [Server thread/INFO]: Sending server config values to client
+[21:19:42] [Server thread/INFO]: Syncing config to 76hz (40ae40ee-0ffd-3c8c-8d98-efc3655ac159)
+[21:19:42] [Server thread/INFO]: Loading config from file...
+[21:19:42] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21:19:42] [Server thread/INFO]: 76hz joined the game
+[21:19:42] [Server thread/INFO]: Loading Configs for Sortilege
+[21:19:42] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[21:19:42] [Server thread/INFO]: Updating all forceload tickets for 40ae40ee-0ffd-3c8c-8d98-efc3655ac159
+[21:19:42] [Server thread/INFO]: PLAYER_JOIN
+[21:19:42] [Server thread/INFO]: add_player wand
+[21:19:42] [Server thread/INFO]: config sent
+[21:19:42] [Server thread/INFO]: 76hz has made the advancement [Mythic Mobs]
+[21:19:44] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[21:19:45] [Server thread/INFO]: MiliHoffman was blown up by Spruce Creeper
+[21:19:48] [Netty Epoll Server IO #1/INFO]: [Ping-Wheel] Channel update: 76hz -> Global
+[21:19:48] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player 76hz. Claiming: GRAVE / Robbing: INVENTORY
+[21:19:50] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of MiliHoffman accepted server config.
+[21:19:51] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of 76hz accepted server config.
+[21:19:55] [Server thread/INFO]: MiliHoffman claimed a grave belonging to MiliHoffman at 8, 77, 14, minecraft:overworld
+[21:22:54] [Server thread/INFO]: MiliHoffman has made the advancement [Super Creeps]
+[21:23:40] [Server thread/INFO]: LuScarlet has made the advancement [Super Creeps]
+[21:24:27] [Server thread/INFO]: 76hz has made the advancement [Super Creeps]
+[21:25:56] [Server thread/INFO]: LuScarlet has made the advancement [Not Today, Thank You]
+[21:28:57] [Server thread/INFO]: 76hz has made the advancement ['X' Marks the Spot]
+[21:29:03] [Server thread/INFO]: 76hz has made the advancement [Scarlet Temptation]
+[21:29:05] [Server thread/INFO]: MiliHoffman has made the advancement [Isn't It Iron Pick]
+[21:29:07] [Server thread/INFO]: MiliHoffman has made the advancement [Ice Bucket Challenge]
+[21:29:10] [Server thread/INFO]: MiliHoffman has made the advancement [Heart of the Machine]
+[21:29:12] [Server thread/INFO]: MiliHoffman has made the advancement [Scarlet Temptation]
+[21:29:15] [Server thread/INFO]: LuScarlet has made the advancement ['X' Marks the Spot]
+[21:29:24] [Server thread/INFO]: LuScarlet has made the advancement [Barrel Booty]
+[21:29:30] [Server thread/INFO]: LuScarlet has made the advancement [Scarlet Temptation]
+[21:29:50] [Server thread/INFO]: MiliHoffman has made the advancement ['X' Marks the Spot]
+[21:30:21] [Server thread/INFO]: 76hz has made the advancement [Sweet Dreams]
+[21:30:26] [Server thread/INFO]: LuScarlet has made the advancement [Sweet Dreams]
+[21:30:39] [Server thread/INFO]: <LuScarlet> zzz
+[21:30:41] [Server thread/INFO]: MiliHoffman has made the advancement [Sweet Dreams]
+[21:31:32] [Server thread/INFO]: 76hz has made the advancement [Monster Hunter]
+[21:32:03] [Server thread/ERROR]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=176, y=77, z=203} as the loot table 'kaisyn:village/village_birch_forest_house' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[21:32:34] [Server thread/INFO]: MiliHoffman has made the advancement [Barrel Booty]
+[21:32:34] [Server thread/ERROR]: Unable to fill loot barrel in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=139, y=77, z=136} as the loot table 'dungeons_arise:chests/mushroom_house/mushroom_house_barrel' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[21:34:25] [Server thread/INFO]: 76hz was slain by Piglin Brute
+[21:34:27] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of 76hz accepted server config.
+[21:34:36] [Server thread/INFO]: MiliHoffman has made the advancement [Not Today, Thank You]
+[21:35:32] [Server thread/INFO]: 76hz claimed a grave belonging to 76hz at 135, 87, 133, minecraft:overworld
+[21:36:29] [Server thread/INFO]: MiliHoffman has made the advancement [Monster Hunter]
+[21:37:39] [Server thread/INFO]: LuScarlet has made the advancement [Stone Age]
+[21:38:19] [Server thread/INFO]: LuScarlet has made the advancement [Gravedigger]
+[21:39:00] [Server thread/INFO]: MiliHoffman has made the advancement [Disme A Dozen]
