@@ -2324,7 +2324,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:piglin": "2025-02-17 21:34:06 +0000",
-      "minecraft:zombie": "2025-02-17 21:08:10 +0000"
+      "minecraft:zombie": "2025-02-17 21:08:10 +0000",
+      "minecraft:drowned": "2025-02-17 23:09:51 +0000"
     },
     "done": false
   },
@@ -3282,7 +3283,8 @@
       "minecraft:birch_forest": "2025-02-17 21:27:28 +0000",
       "minecraft:beach": "2025-02-17 21:28:15 +0000",
       "minecraft:river": "2025-02-17 21:25:55 +0000",
-      "minecraft:windswept_forest": "2025-02-17 21:43:31 +0000"
+      "minecraft:windswept_forest": "2025-02-17 21:43:31 +0000",
+      "minecraft:ocean": "2025-02-17 23:08:06 +0000"
     },
     "done": false
   },
@@ -6186,6 +6188,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_doors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_doors": "2025-02-17 23:03:04 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/golden_carrot": {
     "criteria": {
       "has_carrot": "2025-02-17 22:50:31 +0000"
@@ -6561,6 +6569,12 @@
   "justhammers:recipes/tools/gold_hammer": {
     "criteria": {
       "has_material": "2025-02-17 22:50:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_doors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_doors": "2025-02-17 23:03:04 +0000"
     },
     "done": true
   },
