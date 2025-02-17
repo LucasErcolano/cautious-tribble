@@ -1,0 +1,17 @@
+{
+	id: "18b2a631-856d-34d0-96ef-b5129a615cf0"
+	type: "player"
+	player_name: "MiliHoffman"
+	ranks: {
+		18b2a631-856d-34d0-96ef-b5129a615cf0: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MiliHoffman"
+		"ftbteams:description": ""
+		"ftbteams:color": "#A359FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
