@@ -2337,6 +2337,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-02-17 23:31:32 +0000",
       "bread": "2025-02-17 21:08:15 +0000"
     },
     "done": false
@@ -5739,6 +5740,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-17 23:34:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-17 23:23:50 +0000"
@@ -5856,6 +5863,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-02-17 22:50:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_6": {
+    "criteria": {
+      "has_raw_silver": "2025-02-17 23:35:04 +0000"
     },
     "done": true
   },
@@ -6027,6 +6040,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
+    "criteria": {
+      "has_item": "2025-02-17 23:33:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-17 22:49:51 +0000"
@@ -6048,6 +6067,12 @@
   "stoneworks:recipes/building_blocks/cracked_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-17 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/skull_pottery_sherd": {
+    "criteria": {
+      "has_skeleton_skull": "2025-02-17 23:38:56 +0000"
     },
     "done": true
   },
@@ -6231,9 +6256,21 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_slab": {
+    "criteria": {
+      "has_item": "2025-02-17 23:34:00 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/lapis": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-17 23:22:10 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-17 23:34:00 +0000"
     },
     "done": true
   },
@@ -6405,6 +6442,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2025-02-17 23:38:56 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/sapphire_axe": {
     "criteria": {
       "has_sapphire_gem": "2025-02-17 23:22:52 +0000"
@@ -6531,6 +6574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-17 23:40:35 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/copper_trap": {
     "criteria": {
       "has_flint": "2025-02-17 22:52:12 +0000"
@@ -6597,6 +6646,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-17 23:34:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-17 23:23:50 +0000"
@@ -6612,6 +6667,12 @@
   "mcdw:recipes/bows/bow_haunted_bow": {
     "criteria": {
       "has_iron_ingot": "2025-02-17 23:13:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/silver_ingot_from_c_raw_silver_ores": {
+    "criteria": {
+      "has_tag_c_raw_silver_ores": "2025-02-17 23:35:04 +0000"
     },
     "done": true
   },
@@ -6726,6 +6787,12 @@
   "mcdw:recipes/crossbows/crossbow_auto": {
     "criteria": {
       "has_iron_ingot": "2025-02-17 23:13:20 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall": {
+    "criteria": {
+      "has_item": "2025-02-17 23:34:00 +0000"
     },
     "done": true
   },
@@ -6903,6 +6970,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/galena_dust_from_galena_ore_with_mercury": {
+    "criteria": {
+      "has_tag_c_galena_ores": "2025-02-17 23:36:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2025-02-17 22:52:44 +0000"
@@ -6993,6 +7066,18 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/polished_rhyolite": {
+    "criteria": {
+      "has_item": "2025-02-17 23:34:00 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs": {
+    "criteria": {
+      "has_item": "2025-02-17 23:34:00 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_broadsword": {
     "criteria": {
       "has_iron_ingot": "2025-02-17 23:13:20 +0000"
@@ -7074,6 +7159,12 @@
   "betterend:recipes/misc/copy_leather_handle_attachment": {
     "criteria": {
       "has_leather": "2025-02-17 22:52:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_silver": {
+    "criteria": {
+      "has_raw_silver_ores": "2025-02-17 23:35:04 +0000"
     },
     "done": true
   },
@@ -7167,6 +7258,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-17 23:34:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-02-17 22:50:32 +0000"
@@ -7236,6 +7333,12 @@
   "techreborn:recipes/misc/crafting_table/tool/sapphire_spade": {
     "criteria": {
       "has_sapphire_gem": "2025-02-17 23:22:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-02-17 23:34:46 +0000"
     },
     "done": true
   },
@@ -7437,6 +7540,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-17 23:40:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-02-17 22:50:32 +0000"
@@ -7533,6 +7642,12 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_the_recipe": "2025-02-17 23:38:56 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_paver_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-17 23:23:50 +0000"
@@ -7621,6 +7736,12 @@
   "betterend:recipes/misc/shadow_berry_jelly": {
     "criteria": {
       "has_tag_c_water_bottles": "2025-02-17 23:13:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-02-17 23:34:46 +0000"
     },
     "done": true
   },
@@ -7717,6 +7838,18 @@
   "mcdw:recipes/swords/sword_broken_sawblade": {
     "criteria": {
       "has_gold_ingot": "2025-02-17 22:50:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_silver_storage_block": {
+    "criteria": {
+      "has_raw_silver": "2025-02-17 23:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_the_recipe": "2025-02-17 23:38:56 +0000"
     },
     "done": true
   },
@@ -7942,6 +8075,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-02-17 23:34:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-17 22:50:31 +0000"
@@ -8008,6 +8147,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-17 23:34:00 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_iron": "2025-02-17 23:13:20 +0000"
@@ -8032,6 +8177,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/ghostly_helmet": {
+    "criteria": {
+      "has_skeleton_skull": "2025-02-17 23:38:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-17 23:23:50 +0000"
@@ -8053,6 +8204,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-02-17 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-17 23:40:35 +0000"
     },
     "done": true
   },
@@ -8095,6 +8252,12 @@
   "mcdw:recipes/bows/bow_wind_bow": {
     "criteria": {
       "has_iron_ingot": "2025-02-17 23:13:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/silver_ingot_from_c_raw_silver_ores": {
+    "criteria": {
+      "has_tag_c_raw_silver_ores": "2025-02-17 23:35:04 +0000"
     },
     "done": true
   },
@@ -8197,6 +8360,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_purple": {
     "criteria": {
       "has_iron_ingot": "2025-02-17 23:13:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-02-17 23:40:35 +0000"
     },
     "done": true
   },
@@ -8545,9 +8714,10 @@
   "techreborn:root": {
     "criteria": {
       "crit_2": "2025-02-17 23:22:52 +0000",
-      "crit_1": "2025-02-17 23:18:59 +0000"
+      "crit_1": "2025-02-17 23:18:59 +0000",
+      "crit_0": "2025-02-17 23:35:32 +0000"
     },
-    "done": false
+    "done": true
   },
   "techreborn:recipes/misc/crafting_table/storage_block/sapphire_storage_block": {
     "criteria": {
@@ -8585,6 +8755,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/food/grilled_garlic": {
+    "criteria": {
+      "has_item": "2025-02-17 23:33:04 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_pickaxe": {
     "criteria": {
       "has_wooden_pickaxe": "2025-02-17 22:52:49 +0000"
@@ -8600,6 +8776,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-17 22:49:51 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2025-02-17 23:33:04 +0000"
     },
     "done": true
   },
@@ -8735,6 +8917,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/bauxite_dust_from_bauxite_ore_with_water": {
+    "criteria": {
+      "has_tag_c_bauxite_ores": "2025-02-17 23:35:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-02-17 22:50:33 +0000"
@@ -8744,6 +8932,12 @@
   "travelersbackpack:recipes/misc/iron_tier_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-02-17 23:13:20 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
+    "criteria": {
+      "has_skeleton_skull": "2025-02-17 23:38:56 +0000"
     },
     "done": true
   },
