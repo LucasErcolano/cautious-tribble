@@ -1,0 +1,17 @@
+{
+	id: "9570e1d2-3a1a-3ae0-b9cb-21f465fd43f9"
+	type: "player"
+	player_name: "LuScarlet"
+	ranks: {
+		9570e1d2-3a1a-3ae0-b9cb-21f465fd43f9: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "LuScarlet"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5986"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
