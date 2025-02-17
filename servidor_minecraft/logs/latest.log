@@ -3000,3 +3000,55 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [21:37:39] [Server thread/INFO]: LuScarlet has made the advancement [Stone Age]
 [21:38:19] [Server thread/INFO]: LuScarlet has made the advancement [Gravedigger]
 [21:39:00] [Server thread/INFO]: MiliHoffman has made the advancement [Disme A Dozen]
+[21:39:29] [Server thread/INFO]: 76hz has made the advancement [Stone Age]
+[21:40:15] [Server thread/INFO]: LuScarlet lost connection: Disconnected
+[21:40:15] [Server thread/INFO]: LuScarlet left the game
+[21:40:15] [Server thread/INFO]: remove player wand
+[21:40:15] [Server thread/INFO]: Updating all forceload tickets for 9570e1d2-3a1a-3ae0-b9cb-21f465fd43f9
+[21:41:29] [Server thread/INFO]: <MiliHoffman> zzzzz
+[21:41:37] [Server thread/INFO]: [Handshake] Sending channel query
+[21:41:37] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[21:41:37] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[21:41:38] [Server thread/INFO]: LuScarlet[/127.247.49.225:54219] logged in with entity id 12188 at (126.41653238498685, 70.0, 340.6612490671662)
+[21:41:38] [Server thread/INFO]: Sending server config values to client
+[21:41:38] [Server thread/INFO]: Syncing config to LuScarlet (9570e1d2-3a1a-3ae0-b9cb-21f465fd43f9)
+[21:41:38] [Server thread/INFO]: Loading config from file...
+[21:41:38] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21:41:38] [Server thread/INFO]: LuScarlet joined the game
+[21:41:38] [Server thread/INFO]: Loading Configs for Sortilege
+[21:41:38] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[21:41:39] [Server thread/INFO]: Updating all forceload tickets for 9570e1d2-3a1a-3ae0-b9cb-21f465fd43f9
+[21:41:39] [Server thread/INFO]: PLAYER_JOIN
+[21:41:39] [Server thread/INFO]: add_player wand
+[21:41:39] [Server thread/INFO]: config sent
+[21:41:41] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[21:41:41] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: LuScarlet -> Global
+[21:41:41] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player LuScarlet. Claiming: GRAVE / Robbing: INVENTORY
+[21:41:51] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of LuScarlet accepted server config.
+[21:42:15] [Server thread/INFO]: LuScarlet lost connection: Disconnected
+[21:42:15] [Server thread/INFO]: LuScarlet left the game
+[21:42:15] [Server thread/INFO]: remove player wand
+[21:42:15] [Server thread/INFO]: Updating all forceload tickets for 9570e1d2-3a1a-3ae0-b9cb-21f465fd43f9
+[21:42:37] [Server thread/INFO]: [Handshake] Sending channel query
+[21:42:37] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[21:42:37] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[21:42:38] [Server thread/INFO]: LuScarlet[/127.247.49.225:49343] logged in with entity id 12453 at (125.61055898390559, 71.0, 332.4927348505537)
+[21:42:38] [Server thread/INFO]: Sending server config values to client
+[21:42:38] [Server thread/INFO]: Syncing config to LuScarlet (9570e1d2-3a1a-3ae0-b9cb-21f465fd43f9)
+[21:42:38] [Server thread/INFO]: Loading config from file...
+[21:42:38] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21:42:38] [Server thread/INFO]: LuScarlet joined the game
+[21:42:38] [Server thread/INFO]: Loading Configs for Sortilege
+[21:42:38] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[21:42:38] [Server thread/INFO]: Updating all forceload tickets for 9570e1d2-3a1a-3ae0-b9cb-21f465fd43f9
+[21:42:38] [Server thread/INFO]: PLAYER_JOIN
+[21:42:38] [Server thread/INFO]: add_player wand
+[21:42:38] [Server thread/INFO]: config sent
+[21:42:40] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[21:42:40] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: LuScarlet -> Global
+[21:42:40] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player LuScarlet. Claiming: GRAVE / Robbing: INVENTORY
+[21:42:50] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of LuScarlet accepted server config.
+[21:44:06] [Server thread/INFO]: LuScarlet has made the advancement [Getting an Upgrade]
+[21:48:22] [Server thread/INFO]: LuScarlet has made the advancement [Disme A Dozen]
+[21:48:35] [Server thread/INFO]: MiliHoffman has made the advancement [Stone Age]
+[21:49:18] [Server thread/INFO]: 76hz has made the advancement [Getting an Upgrade]
