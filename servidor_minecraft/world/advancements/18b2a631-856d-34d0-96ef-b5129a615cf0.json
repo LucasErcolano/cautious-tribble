@@ -8357,6 +8357,12 @@
     },
     "done": true
   },
+  "archon:channel": {
+    "criteria": {
+      "channeled": "2025-02-18 20:59:08 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_lost_souls": {
     "criteria": {
       "has_string": "2025-02-18 20:35:58 +0000"

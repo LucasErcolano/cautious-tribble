@@ -3141,3 +3141,4 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [20:45:40] [Server thread/INFO]: Villager class_1646['Felisa'/276, l='ServerLevel[world]', x=92.90, y=62.00, z=181.83] died, message: 'Felisa was slain by MiliHoffman'
 [20:45:40] [Server thread/INFO]: Named entity class_1646['Felisa'/276, l='ServerLevel[world]', x=92.90, y=62.00, z=181.83] died: Felisa was slain by MiliHoffman
 [20:59:08] [Server thread/INFO]: MiliHoffman has made the advancement [Zip Zap]
+[21:07:25] [Server thread/INFO]: MiliHoffman has made the advancement [Tears and Lamps]
