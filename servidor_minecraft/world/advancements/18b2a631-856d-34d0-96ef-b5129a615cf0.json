@@ -8231,6 +8231,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/birch_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-02-18 20:40:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-18 20:00:17 +0000"
@@ -8261,6 +8267,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/spruce_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-02-18 20:40:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_tiles_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-02-18 20:22:34 +0000"
@@ -8270,6 +8282,12 @@
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2025-02-18 20:22:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/tungsten_storage_block": {
+    "criteria": {
+      "has_tungsten_ingot": "2025-02-18 20:41:05 +0000"
     },
     "done": true
   },
@@ -8309,6 +8327,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_lost_souls": {
+    "criteria": {
+      "has_string": "2025-02-18 20:35:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2025-02-18 20:22:34 +0000"
@@ -8324,6 +8348,24 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-02-18 20:23:57 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_void_bow": {
+    "criteria": {
+      "has_string": "2025-02-18 20:35:58 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_boots": {
+    "criteria": {
+      "has_iron_boots": "2025-02-18 20:44:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-02-18 20:35:58 +0000"
     },
     "done": true
   },
@@ -8363,15 +8405,45 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_azure_seeker": {
+    "criteria": {
+      "has_string": "2025-02-18 20:35:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-02-18 20:22:49 +0000"
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_winters_touch": {
+    "criteria": {
+      "has_string": "2025-02-18 20:35:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-18 20:35:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-18 20:00:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/tungsten_plate": {
+    "criteria": {
+      "has_tag_c_tungsten_ingots": "2025-02-18 20:41:05 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_dual": {
+    "criteria": {
+      "has_string": "2025-02-18 20:35:58 +0000"
     },
     "done": true
   },
@@ -8453,6 +8525,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_scatter": {
+    "criteria": {
+      "has_string": "2025-02-18 20:35:58 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_reinforced_hammer": {
     "criteria": {
       "has_material": "2025-02-18 20:22:42 +0000"
@@ -8489,6 +8567,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_exploding": {
+    "criteria": {
+      "has_string": "2025-02-18 20:35:58 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-02-18 20:08:30 +0000"
@@ -8504,6 +8588,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-18 20:00:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/tungsten_grinding_head": {
+    "criteria": {
+      "has_tungsten_ingot": "2025-02-18 20:41:05 +0000"
     },
     "done": true
   },
@@ -8525,6 +8615,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_call_of_the_void": {
+    "criteria": {
+      "has_string": "2025-02-18 20:35:58 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/double_axes/double_axe_double": {
     "criteria": {
       "has_iron_block": "2025-02-18 20:22:42 +0000"
@@ -8537,6 +8633,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-02-18 20:35:58 +0000"
+    },
+    "done": true
+  },
   "herbalbrews:recipes/copper_tea_kettle": {
     "criteria": {
       "has_copper_ingot": "2025-02-18 20:22:34 +0000"
@@ -8546,6 +8648,12 @@
   "create:recipes/decorations/copper_bars_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-02-18 20:22:34 +0000"
+    },
+    "done": true
+  },
+  "beachparty:bikini": {
+    "criteria": {
+      "has_string": "2025-02-18 20:35:58 +0000"
     },
     "done": true
   },
@@ -8573,6 +8681,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-02-18 20:35:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-18 20:00:17 +0000"
@@ -8594,6 +8708,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2025-02-18 20:22:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-02-18 20:35:58 +0000"
     },
     "done": true
   },
@@ -8621,9 +8741,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_boots": {
+    "criteria": {
+      "has_iron_boots": "2025-02-18 20:44:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-02-18 20:35:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-02-18 20:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-02-18 20:35:58 +0000"
     },
     "done": true
   },
@@ -8645,9 +8783,21 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/dragons_blood_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-02-18 20:40:29 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-18 20:00:17 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_corrupted_crossbow": {
+    "criteria": {
+      "has_string": "2025-02-18 20:35:58 +0000"
     },
     "done": true
   },
@@ -8657,15 +8807,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-02-18 20:35:58 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/double_axes/double_axe_cursed": {
     "criteria": {
       "has_rotten_flesh": "2025-02-18 20:08:30 +0000"
     },
     "done": true
   },
+  "mcdw:recipes/double_axes/double_axe_whirlwind": {
+    "criteria": {
+      "has_phantom_membrane": "2025-02-18 20:38:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_brick_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-18 20:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-02-18 20:35:58 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dark_oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-02-18 20:40:29 +0000"
     },
     "done": true
   },
@@ -8693,6 +8867,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/shortbows/bow_shortbow": {
+    "criteria": {
+      "has_string": "2025-02-18 20:35:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-02-18 19:56:33 +0000"
@@ -8702,6 +8882,12 @@
   "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-18 20:00:17 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_boots": {
+    "criteria": {
+      "has_iron_boots": "2025-02-18 20:44:07 +0000"
     },
     "done": true
   },
@@ -8741,6 +8927,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/longbows/bow_longbow": {
+    "criteria": {
+      "has_string": "2025-02-18 20:35:58 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/copper_nugget": {
     "criteria": {
       "has_copper_ingot": "2025-02-18 20:22:34 +0000"
@@ -8777,6 +8969,19 @@
     },
     "done": true
   },
+  "beachparty:beachpartybikini": {
+    "criteria": {
+      "has_string": "2025-02-18 20:35:58 +0000",
+      "has_the_recipe": "2025-02-18 20:35:58 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/acacia_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-02-18 20:40:29 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_tile_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-18 20:00:17 +0000"
@@ -8801,6 +9006,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/tungsten_nugget": {
+    "criteria": {
+      "has_tungsten_ingot": "2025-02-18 20:41:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-02-18 20:22:29 +0000"
@@ -8813,9 +9024,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/hot_tungstensteel_ingot": {
+    "criteria": {
+      "has_tungsten_ingot": "2025-02-18 20:41:05 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/altimeter": {
     "criteria": {
       "has_copper_ingot": "2025-02-18 20:22:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-18 20:35:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_soul": {
+    "criteria": {
+      "has_string": "2025-02-18 20:35:58 +0000"
     },
     "done": true
   },
@@ -8834,6 +9063,18 @@
   "stoneworks:recipes/building_blocks/andesite_plate_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-18 20:00:17 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/warped_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-02-18 20:40:29 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-02-18 20:40:29 +0000"
     },
     "done": true
   },
@@ -8861,9 +9102,21 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/cypress_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-02-18 20:40:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-02-18 20:22:42 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-02-18 20:38:36 +0000"
     },
     "done": true
   },
@@ -8909,6 +9162,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/tungsten_ingot": {
+    "criteria": {
+      "has_tungsten_ore": "2025-02-18 20:40:51 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2025-02-18 20:22:34 +0000"
@@ -8945,6 +9204,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/crimson_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-02-18 20:40:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-18 20:00:17 +0000"
@@ -8963,6 +9228,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/slingshot": {
+    "criteria": {
+      "has_string": "2025-02-18 20:35:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/chiseled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-18 20:00:17 +0000"
@@ -8972,6 +9243,12 @@
   "oxidized:recipes/copper_pan": {
     "criteria": {
       "has_copper_block": "2025-02-18 20:22:34 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/jungle_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-02-18 20:40:29 +0000"
     },
     "done": true
   },
@@ -9011,6 +9288,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-02-18 20:38:36 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/elder_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-02-18 20:40:29 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_tile_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-18 20:00:17 +0000"
@@ -9029,6 +9318,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/juniper_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-02-18 20:40:29 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_shingles_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-18 20:00:17 +0000"
@@ -9038,6 +9333,12 @@
   "create:recipes/decorations/copper_scaffolding_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-02-18 20:22:34 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_spider": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-18 20:35:59 +0000"
     },
     "done": true
   },
@@ -9077,9 +9378,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_shadow_crossbow": {
+    "criteria": {
+      "has_string": "2025-02-18 20:35:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_paver_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-18 20:00:17 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_boots": {
+    "criteria": {
+      "has_iron_boots": "2025-02-18 20:44:07 +0000"
     },
     "done": true
   },
