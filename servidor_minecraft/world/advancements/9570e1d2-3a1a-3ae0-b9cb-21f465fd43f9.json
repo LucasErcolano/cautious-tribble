@@ -2325,6 +2325,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-18 20:05:01 +0000",
       "minecraft:slime": "2025-02-18 20:02:52 +0000",
+      "minecraft:phantom": "2025-02-18 20:35:40 +0000",
       "minecraft:piglin": "2025-02-17 21:34:06 +0000",
       "minecraft:zombie": "2025-02-17 21:08:10 +0000",
       "minecraft:drowned": "2025-02-17 23:09:51 +0000"
@@ -9280,6 +9281,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-02-18 20:34:38 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartybeach_hat": {
+    "criteria": {
+      "has_wheat": "2025-02-18 20:34:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-18 20:20:19 +0000"
@@ -9430,6 +9443,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-02-18 20:34:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-18 20:14:59 +0000"
@@ -9574,9 +9593,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2025-02-18 20:34:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/flint_from_gravel": {
+    "criteria": {
+      "has_gravel": "2025-02-18 20:28:34 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_shingle_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-18 20:14:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-02-18 20:28:34 +0000"
     },
     "done": true
   },
@@ -9682,6 +9719,12 @@
     },
     "done": true
   },
+  "brewery:recipes/rope": {
+    "criteria": {
+      "has_wheat": "2025-02-18 20:34:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-02-18 20:24:00 +0000"
@@ -9742,6 +9785,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-02-18 20:28:34 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_tuff_brick_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-18 20:14:59 +0000"
@@ -9772,6 +9821,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-02-18 20:34:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-18 20:20:19 +0000"
@@ -9790,6 +9845,12 @@
     },
     "done": true
   },
+  "vinery:recipes/basket": {
+    "criteria": {
+      "has_wheat": "2025-02-18 20:34:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-18 20:20:19 +0000"
@@ -9805,6 +9866,12 @@
   "twigs:recipes/tuff/tuff_slab": {
     "criteria": {
       "has_item": "2025-02-18 20:14:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-02-18 20:34:38 +0000"
     },
     "done": true
   },
@@ -9862,6 +9929,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/sheaf_pottery_sherd": {
+    "criteria": {
+      "has_wheat": "2025-02-18 20:34:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-18 20:14:59 +0000"
@@ -9904,9 +9977,27 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-02-18 20:35:40 +0000"
+    },
+    "done": false
+  },
+  "brewery:recipes/pretzel": {
+    "criteria": {
+      "has_wheat": "2025-02-18 20:34:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-02-18 20:20:19 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/gingerbread": {
+    "criteria": {
+      "has_wheat": "2025-02-18 20:34:38 +0000"
     },
     "done": true
   },
@@ -9964,6 +10055,12 @@
     },
     "done": true
   },
+  "twigs:recipes/gravel_bricks/gravel_bricks": {
+    "criteria": {
+      "has_item": "2025-02-18 20:28:34 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-18 20:20:19 +0000"
@@ -9994,9 +10091,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-18 20:34:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-18 20:14:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-18 20:34:38 +0000"
     },
     "done": true
   },
@@ -10114,6 +10223,13 @@
     },
     "done": true
   },
+  "beachparty:beach_hat": {
+    "criteria": {
+      "has_wheat": "2025-02-18 20:34:38 +0000",
+      "has_the_recipe": "2025-02-18 20:34:38 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/diorite_pillar_trim": {
     "criteria": {
       "has_diorite_pillar_trim": "2025-02-18 20:20:19 +0000"
@@ -10123,6 +10239,12 @@
   "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-18 20:14:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-02-18 20:34:38 +0000"
     },
     "done": true
   },
@@ -10138,6 +10260,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-02-18 20:28:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-18 20:20:19 +0000"
@@ -10147,6 +10275,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-02-18 20:02:59 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/straw_hat": {
+    "criteria": {
+      "has_wheat": "2025-02-18 20:34:38 +0000"
     },
     "done": true
   },

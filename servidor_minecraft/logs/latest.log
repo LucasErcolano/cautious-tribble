@@ -2738,3 +2738,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [20:19:04] [Server thread/INFO]: LuScarlet has made the advancement [The Beginning]
 [20:21:53] [Server thread/INFO]: 76hz has made the advancement [Barrel Booty]
 [20:22:51] [Server thread/INFO]: LuScarlet has made the advancement [Archer´s Paths]
+[20:31:04] [Server thread/INFO]: 76hz lost connection: Disconnected
+[20:31:04] [Server thread/INFO]: 76hz left the game
+[20:31:04] [Server thread/INFO]: remove player wand
+[20:31:04] [Server thread/INFO]: Updating all forceload tickets for 40ae40ee-0ffd-3c8c-8d98-efc3655ac159
