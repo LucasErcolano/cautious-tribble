@@ -833,6 +833,7 @@
       "minecraft:birch_forest": "2025-02-17 21:24:49 +0000",
       "minecraft:beach": "2025-02-17 21:28:15 +0000",
       "minecraft:river": "2025-02-17 21:22:55 +0000",
+      "minecraft:windswept_forest": "2025-02-18 20:12:30 +0000",
       "minecraft:ocean": "2025-02-17 21:28:21 +0000"
     },
     "done": false
@@ -3718,7 +3719,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-17 23:39:01 +0000",
       "minecraft:spider": "2025-02-17 23:33:36 +0000",
-      "minecraft:piglin": "2025-02-17 21:36:29 +0000"
+      "minecraft:piglin": "2025-02-17 21:36:29 +0000",
+      "minecraft:zombie": "2025-02-18 20:08:25 +0000"
     },
     "done": false
   },
@@ -8298,6 +8300,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-02-18 20:08:30 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/paper_lanterns/torchflower_paper_lantern": {
     "criteria": {
       "has_item": "2025-02-18 20:03:07 +0000"
@@ -8331,6 +8339,12 @@
   "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-18 20:00:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-02-18 20:08:30 +0000"
     },
     "done": true
   },
@@ -8403,6 +8417,12 @@
   "stoneworks:recipes/building_blocks/cobbled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-18 20:00:17 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_cursed": {
+    "criteria": {
+      "has_rotten_flesh": "2025-02-18 20:08:30 +0000"
     },
     "done": true
   },
@@ -8643,6 +8663,12 @@
   "stoneworks:recipes/building_blocks/andesite_shingles_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-18 20:00:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/leather": {
+    "criteria": {
+      "has_rotten_flesh": "2025-02-18 20:08:30 +0000"
     },
     "done": true
   },
