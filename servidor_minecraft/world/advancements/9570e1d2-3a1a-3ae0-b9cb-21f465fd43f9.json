@@ -9317,6 +9317,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-02-18 20:55:24 +0000"
+    },
+    "done": true
+  },
   "beachparty:beachpartybeach_hat": {
     "criteria": {
       "has_wheat": "2025-02-18 20:34:38 +0000"
@@ -9731,6 +9737,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/golden_carrot": {
+    "criteria": {
+      "has_golden_carrot": "2025-02-18 20:55:24 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_paver_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-18 20:20:19 +0000"
@@ -9776,6 +9788,12 @@
   "techreborn:recipes/blast_furnace/gold_nugget_from_shovel": {
     "criteria": {
       "has_golden_shovel": "2025-02-18 20:21:55 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2025-02-18 20:55:24 +0000"
     },
     "done": true
   },
