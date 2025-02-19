@@ -2490,3 +2490,7 @@ BCLib - Nether BiomeSource (31ffa156)
 [21:10:19] [Server thread/INFO]: Named entity class_1646['Frances'/99, l='ServerLevel[world]', x=183.30, y=72.12, z=120.53] died: Frances was slain by Zombie
 [21:10:34] [Server thread/INFO]: Villager class_1646['Devin'/81, l='ServerLevel[world]', x=165.54, y=90.00, z=83.05] died, message: 'Devin was slain by Ghoul'
 [21:10:34] [Server thread/INFO]: Named entity class_1646['Devin'/81, l='ServerLevel[world]', x=165.54, y=90.00, z=83.05] died: Devin was slain by Ghoul
+[21:24:00] [Server thread/INFO]: MiliHoffman has reached the goal [Choose your path]
+[21:24:39] [Server thread/INFO]: LuScarlet has reached the goal [Choose your path]
+[21:25:26] [Server thread/INFO]: LuScarlet has made the advancement [Path of Light]
+[21:30:17] [Server thread/INFO]: LuScarlet has made the advancement [Tears and Lamps]
