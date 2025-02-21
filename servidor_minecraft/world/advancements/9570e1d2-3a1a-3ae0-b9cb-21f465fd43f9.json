@@ -2330,7 +2330,8 @@
       "minecraft:phantom": "2025-02-18 20:35:40 +0000",
       "minecraft:piglin": "2025-02-17 21:34:06 +0000",
       "minecraft:zombie": "2025-02-17 21:08:10 +0000",
-      "minecraft:drowned": "2025-02-17 23:09:51 +0000"
+      "minecraft:drowned": "2025-02-17 23:09:51 +0000",
+      "minecraft:zombie_villager": "2025-02-21 21:26:21 +0000"
     },
     "done": false
   },
@@ -12426,6 +12427,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/book_of_shadows": {
+    "criteria": {
+      "has_item": "2025-02-21 21:32:47 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-02-21 21:09:27 +0000"
@@ -12450,6 +12457,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-21 21:27:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2025-02-21 21:12:24 +0000"
@@ -12471,6 +12484,12 @@
   "mcdw:recipes/swords/sword_diamond_sword_var": {
     "criteria": {
       "has_diamond": "2025-02-21 21:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-02-21 21:27:42 +0000"
     },
     "done": true
   },
@@ -12509,6 +12528,12 @@
       "has_mossy_cobblestone": "2025-02-21 21:09:27 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-02-21 21:33:02 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
@@ -12582,6 +12607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-02-21 21:27:42 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/cincinnasite_shovel_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-02-21 21:20:07 +0000"
@@ -12621,6 +12652,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-21 21:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-02-21 21:33:02 +0000"
     },
     "done": true
   },
@@ -12699,6 +12736,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-02-21 21:12:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-02-21 21:27:42 +0000"
     },
     "done": true
   },

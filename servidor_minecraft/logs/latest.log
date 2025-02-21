@@ -2970,3 +2970,50 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [21:29:36] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: Cataawa -> Global
 [21:29:36] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Cataawa. Claiming: GRAVE / Robbing: INVENTORY
 [21:29:41] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Cataawa accepted server config.
+[21:32:36] [Server thread/INFO]: MiliHoffman lost connection: Disconnected
+[21:32:36] [Server thread/INFO]: MiliHoffman left the game
+[21:32:36] [Server thread/INFO]: remove player wand
+[21:32:36] [Server thread/INFO]: Updating all forceload tickets for 18b2a631-856d-34d0-96ef-b5129a615cf0
+[21:32:41] [Server thread/INFO]: [Handshake] Sending channel query
+[21:32:41] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[21:32:41] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[21:32:42] [Server thread/INFO]: MiliHoffman[/127.184.134.117:49507] logged in with entity id 5072 at (92.99716151659393, 64.0, 170.098661378265)
+[21:32:42] [Server thread/INFO]: Sending server config values to client
+[21:32:42] [Server thread/INFO]: Syncing config to MiliHoffman (18b2a631-856d-34d0-96ef-b5129a615cf0)
+[21:32:42] [Server thread/INFO]: Loading config from file...
+[21:32:42] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21:32:42] [Server thread/INFO]: MiliHoffman joined the game
+[21:32:42] [Server thread/INFO]: Loading Configs for Sortilege
+[21:32:42] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[21:32:42] [Server thread/INFO]: Updating all forceload tickets for 18b2a631-856d-34d0-96ef-b5129a615cf0
+[21:32:42] [Server thread/INFO]: PLAYER_JOIN
+[21:32:42] [Server thread/INFO]: add_player wand
+[21:32:42] [Server thread/INFO]: config sent
+[21:32:44] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[21:32:44] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: MiliHoffman -> Global
+[21:32:44] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player MiliHoffman. Claiming: GRAVE / Robbing: INVENTORY
+[21:32:56] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of MiliHoffman accepted server config.
+[21:33:02] [Server thread/INFO]: LuScarlet has made the advancement [The Parrots and the Bats]
+[21:33:13] [Server thread/INFO]: Cataawa lost connection: Disconnected
+[21:33:13] [Server thread/INFO]: Cataawa left the game
+[21:33:13] [Server thread/INFO]: remove player wand
+[21:33:13] [Server thread/INFO]: Updating all forceload tickets for 850b2552-9544-3810-847b-47a965ba0fa3
+[21:37:05] [Server thread/INFO]: [Handshake] Sending channel query
+[21:37:05] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[21:37:05] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[21:37:05] [Server thread/INFO]: Cataawa[/127.235.74.22:42393] logged in with entity id 5743 at (-4.5, 77.0, -1.5)
+[21:37:05] [Server thread/INFO]: Sending server config values to client
+[21:37:05] [Server thread/INFO]: Syncing config to Cataawa (850b2552-9544-3810-847b-47a965ba0fa3)
+[21:37:05] [Server thread/INFO]: Loading config from file...
+[21:37:05] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21:37:05] [Server thread/INFO]: Cataawa joined the game
+[21:37:05] [Server thread/INFO]: Loading Configs for Sortilege
+[21:37:05] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[21:37:05] [Server thread/INFO]: Updating all forceload tickets for 850b2552-9544-3810-847b-47a965ba0fa3
+[21:37:05] [Server thread/INFO]: PLAYER_JOIN
+[21:37:05] [Server thread/INFO]: add_player wand
+[21:37:05] [Server thread/INFO]: config sent
+[21:37:08] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[21:37:12] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: Cataawa -> Global
+[21:37:12] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Cataawa. Claiming: GRAVE / Robbing: INVENTORY
+[21:37:17] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Cataawa accepted server config.
