@@ -3124,3 +3124,12 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [22:25:52] [Server thread/INFO]: Cataawa has made the advancement [Suit Up]
 [22:26:24] [Server thread/INFO]: Cataawa has made the advancement [Acquire Hardware]
 [22:27:46] [Server thread/INFO]: 76hz has completed the challenge [When the Stew is Sus]
+[22:31:16] [Server thread/WARN]: Stone Pine Boat (vehicle of 76hz) moved wrongly! 0.3462977555470307
+[22:31:16] [Server thread/WARN]: Stone Pine Boat (vehicle of 76hz) moved wrongly! 0.37365870901869835
+[22:31:16] [Server thread/WARN]: Stone Pine Boat (vehicle of 76hz) moved wrongly! 0.39945690120480715
+[22:31:16] [Server thread/WARN]: Stone Pine Boat (vehicle of 76hz) moved wrongly! 0.4234517579927983
+[22:31:16] [Server thread/WARN]: Stone Pine Boat (vehicle of 76hz) moved wrongly! 0.44557427106018543
+[22:33:07] [Server thread/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
+[22:40:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:40:30] [Server thread/INFO]: <--[HERE]
+[22:40:44] [Server thread/INFO]: Cataawa has made the advancement [This Must be a Sign!]
