@@ -582,6 +582,7 @@
     "criteria": {
       "pine_taiga": "2025-02-17 21:01:40 +0000",
       "grassy_beach": "2025-02-17 21:23:07 +0000",
+      "mycotoxic_undergrowth": "2025-02-21 21:57:06 +0000",
       "temperate_grove": "2025-02-17 22:49:28 +0000"
     },
     "done": false
@@ -3719,9 +3720,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-02-21 22:00:44 +0000",
       "minecraft:skeleton": "2025-02-17 23:39:01 +0000",
       "minecraft:spider": "2025-02-17 23:33:36 +0000",
       "minecraft:slime": "2025-02-21 21:12:24 +0000",
+      "minecraft:wither_skeleton": "2025-02-21 22:04:19 +0000",
       "minecraft:piglin": "2025-02-17 21:36:29 +0000",
       "minecraft:enderman": "2025-02-18 20:24:35 +0000",
       "minecraft:silverfish": "2025-02-18 20:16:27 +0000",
@@ -11716,9 +11719,39 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-02-21 21:57:02 +0000"
+    },
+    "done": false
+  },
+  "techreborn:recipes/grinder/steel_dust": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-02-21 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "mycotoxic_undergrowth": "2025-02-21 21:57:06 +0000"
+    },
+    "done": false
+  },
+  "netherdepthsupgrade:main/root": {
+    "criteria": {
+      "entered_nether": "2025-02-21 21:56:53 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-02-21 21:53:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/digital_display": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-21 22:01:44 +0000"
     },
     "done": true
   },
@@ -11728,9 +11761,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/solar_panel/industrial_solar_panel_alt": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-21 22:01:44 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/smoking/cooked_duck": {
     "criteria": {
       "has_duck": "2025-02-21 21:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-21 22:01:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/steel_plate": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-02-21 22:02:01 +0000"
     },
     "done": true
   },
@@ -11740,9 +11791,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-02-21 22:01:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/chemical_reactor": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-21 22:01:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/aluminum_dust": {
+    "criteria": {
+      "has_tag_c_aluminum_ingots": "2025-02-21 22:01:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/aluminum_nugget": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-02-21 22:01:49 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/void_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-02-21 21:53:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/diamond_grinding_head": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-21 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-02-21 21:57:02 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-21 22:00:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_storage_block": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-21 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/brewing/nether_brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-21 22:00:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-21 22:00:35 +0000"
     },
     "done": true
   },
@@ -11752,9 +11863,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-21 22:00:35 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-02-21 21:53:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/aluminum_plate": {
+    "criteria": {
+      "has_tag_c_aluminum_ingots": "2025-02-21 22:01:49 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_wither": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-21 22:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-21 21:56:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-21 22:00:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2025-02-21 22:00:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/player_detector": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-21 22:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-21 22:00:59 +0000"
     },
     "done": true
   },
@@ -11764,15 +11923,141 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/steel_boots": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-21 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-21 22:00:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lapotronic_su": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-21 22:01:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_helmet": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-21 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/rolling_machine": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-21 22:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-21 22:00:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-21 21:56:53 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/tanks_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-02-21 21:53:41 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/aluminum_storage_block": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-02-21 22:01:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/auto_crafting_table": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-21 22:01:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/steel_nugget": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-21 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_leggings": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-21 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-21 22:00:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/diamond_saw_blade": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-21 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-21 22:00:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-21 21:56:53 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/pickup_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-02-21 21:53:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_chestplate": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-21 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dragon_staff": {
+    "criteria": {
+      "has_item": "2025-02-21 22:00:59 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/withered_wabbajack": {
+    "criteria": {
+      "has_item": "2025-02-21 22:01:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blaze_block": {
+    "criteria": {
+      "has_item": "2025-02-21 22:00:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-02-21 22:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-21 22:00:35 +0000"
     },
     "done": true
   },

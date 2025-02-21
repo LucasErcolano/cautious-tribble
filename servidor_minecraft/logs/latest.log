@@ -3091,3 +3091,16 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [22:00:30] [Server thread/INFO]: LuScarlet has made the advancement [Time for a Sweat]
 [22:00:30] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of LuScarlet accepted server config.
 [22:00:30] [Server thread/INFO]: LuScarlet has made the advancement [A Terrible Fortress]
+[22:00:59] [Server thread/INFO]: MiliHoffman has made the advancement [Into Fire]
+[22:01:20] [Server thread/INFO]: MiliHoffman has made the advancement [Spooky Scary Skeleton]
+[22:01:48] [Server thread/INFO]: LuScarlet has made the advancement [Stare Into Despair]
+[22:01:48] [Server thread/INFO]: LuScarlet has made the advancement [The Beginning of An Adventure]
+[22:01:48] [Server thread/INFO]: LuScarlet has made the advancement [Amateur Archaeologist]
+[22:02:37] [Server thread/INFO]: LuScarlet has made the advancement [Close Quarters]
+[22:04:14] [Server thread/INFO]: Cataawa was slain by Wither Skeleton
+[22:04:16] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Cataawa accepted server config.
+[22:04:38] [Server thread/INFO]: No return portal found
+[22:04:38] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Cataawa accepted server config.
+[22:05:26] [Server thread/INFO]: Cataawa claimed a grave belonging to Cataawa at 49, 56, 10, minecraft:the_nether
+[22:07:02] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Cataawa accepted server config.
+[22:08:02] [Server thread/INFO]: 76hz has made the advancement [Into Fire]
