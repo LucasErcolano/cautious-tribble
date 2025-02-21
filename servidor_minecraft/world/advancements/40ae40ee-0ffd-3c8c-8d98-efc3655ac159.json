@@ -3582,6 +3582,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-02-21 22:10:46 +0000",
       "minecraft:skeleton": "2025-02-17 23:38:56 +0000",
       "minecraft:wither_skeleton": "2025-02-21 21:59:35 +0000",
       "minecraft:silverfish": "2025-02-18 20:16:44 +0000",
@@ -9179,6 +9180,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/redstone/elder_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-02-21 22:11:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-02-21 21:57:06 +0000"
@@ -9212,6 +9219,12 @@
   "techreborn:recipes/grinder/invar_dust": {
     "criteria": {
       "has_tag_c_invar_ingots": "2025-02-21 22:02:22 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/obsidian_witch_altar": {
+    "criteria": {
+      "has_item": "2025-02-21 22:21:04 +0000"
     },
     "done": true
   },
@@ -9269,6 +9282,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/electric_furnace": {
+    "criteria": {
+      "has_electronic_circuit": "2025-02-21 22:20:05 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_pavers_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-21 22:05:08 +0000"
@@ -9278,6 +9297,18 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-02-21 21:54:58 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-21 22:21:04 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/elder_button": {
+    "criteria": {
+      "has_item": "2025-02-21 22:11:15 +0000"
     },
     "done": true
   },
@@ -9299,6 +9330,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_obsidian": "2025-02-21 22:21:04 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/sprout_armor_leggings": {
     "criteria": {
       "has_nether_wart": "2025-02-21 22:02:10 +0000"
@@ -9308,6 +9345,12 @@
   "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-21 21:54:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/basic_display": {
+    "criteria": {
+      "has_electronic_circuit": "2025-02-21 22:20:05 +0000"
     },
     "done": true
   },
@@ -9341,9 +9384,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/obsidian_plate_from_block": {
+    "criteria": {
+      "has_obsidian": "2025-02-21 22:21:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-21 22:05:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/skull_pottery_sherd": {
+    "criteria": {
+      "has_skeleton_skull": "2025-02-21 22:22:11 +0000"
     },
     "done": true
   },
@@ -9368,6 +9423,12 @@
   "techreborn:recipes/crafting_table/solar_panel/industrial_solar_panel_alt": {
     "criteria": {
       "has_advanced_circuit": "2025-02-21 22:02:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-02-21 22:21:46 +0000"
     },
     "done": true
   },
@@ -9419,6 +9480,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/redstone/elder_door": {
+    "criteria": {
+      "has_item": "2025-02-21 22:11:15 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/invar_nugget": {
     "criteria": {
       "has_invar_ingot": "2025-02-21 22:02:22 +0000"
@@ -9428,6 +9495,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-21 22:05:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-21 22:21:04 +0000"
     },
     "done": true
   },
@@ -9446,6 +9519,18 @@
   "mcda:recipes/base_armors/living_vines_armor_leggings": {
     "criteria": {
       "has_nether_wart": "2025-02-21 22:02:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2025-02-21 22:22:11 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/elder_fence": {
+    "criteria": {
+      "has_item": "2025-02-21 22:11:15 +0000"
     },
     "done": true
   },
@@ -9470,6 +9555,12 @@
   "mcda:recipes/base_armors/living_vines_armor_chestplate": {
     "criteria": {
       "has_nether_wart": "2025-02-21 22:02:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-21 22:21:04 +0000"
     },
     "done": true
   },
@@ -9557,6 +9648,24 @@
     },
     "done": true
   },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-21 22:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-02-21 22:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-02-21 22:21:46 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/socotra_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-21 21:54:32 +0000"
@@ -9599,6 +9708,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/building_blocks/elder_slab": {
+    "criteria": {
+      "has_item": "2025-02-21 22:11:15 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/transportation/juniper_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-21 21:54:32 +0000"
@@ -9626,6 +9741,12 @@
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-21 21:54:58 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_obsidian_claymore": {
+    "criteria": {
+      "has_obsidian": "2025-02-21 22:21:04 +0000"
     },
     "done": true
   },
@@ -9701,6 +9822,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-21 22:08:02 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bloodstone/bloodstone": {
     "criteria": {
       "has_item": "2025-02-21 22:00:23 +0000"
@@ -9719,6 +9846,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-02-21 22:07:16 +0000"
+    },
+    "done": true
+  },
+  "archon:learn_spell": {
+    "criteria": {
+      "spell": "2025-02-21 22:13:58 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_backstabber": {
+    "criteria": {
+      "has_obsidian": "2025-02-21 22:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-21 22:21:04 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/nickel_nugget": {
     "criteria": {
       "has_nickel_ingot": "2025-02-21 22:03:46 +0000"
@@ -9734,6 +9885,18 @@
   "regions_unexplored:recipes/transportation/baobab_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-21 21:54:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-02-21 22:21:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2025-02-21 22:08:02 +0000"
     },
     "done": true
   },
@@ -9770,6 +9933,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-21 21:54:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-21 22:08:02 +0000"
     },
     "done": true
   },
@@ -9857,6 +10026,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/upgrade/muffler_upgrade": {
+    "criteria": {
+      "has_electronic_circuit": "2025-02-21 22:20:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/steel_helmet": {
     "criteria": {
       "has_steel_ingot": "2025-02-21 22:02:12 +0000"
@@ -9872,6 +10047,18 @@
   "minecraft:recipes/building_blocks/red_nether_brick_slab": {
     "criteria": {
       "has_red_nether_bricks": "2025-02-21 22:05:51 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_the_recipe": "2025-02-21 22:22:11 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/building_blocks/elder_stairs": {
+    "criteria": {
+      "has_item": "2025-02-21 22:11:15 +0000"
     },
     "done": true
   },
@@ -9899,9 +10086,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-21 22:21:04 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
     "criteria": {
       "has_nether_quartz": "2025-02-21 22:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_the_recipe": "2025-02-21 22:22:11 +0000"
     },
     "done": true
   },
@@ -9929,6 +10128,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-21 22:21:04 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/maple/chest_boat": {
     "criteria": {
       "has_boat": "2025-02-21 21:54:32 +0000"
@@ -9938,6 +10143,18 @@
   "techreborn:recipes/crafting_table/machine/auto_crafting_table": {
     "criteria": {
       "has_advanced_circuit": "2025-02-21 22:02:23 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/elder_fence_gate": {
+    "criteria": {
+      "has_item": "2025-02-21 22:11:15 +0000"
+    },
+    "done": true
+  },
+  "quartzelv:recipes/building_blocks/smooth_quartz_elevator_from_smooth_quartz": {
+    "criteria": {
+      "has_smooth_quartz": "2025-02-21 22:21:46 +0000"
     },
     "done": true
   },
@@ -10001,6 +10218,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-21 22:08:02 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/elder_trapdoor": {
+    "criteria": {
+      "has_item": "2025-02-21 22:11:15 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/diamond_saw_blade": {
     "criteria": {
       "has_steel_ingot": "2025-02-21 22:02:12 +0000"
@@ -10025,6 +10254,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/ghostly_helmet": {
+    "criteria": {
+      "has_skeleton_skull": "2025-02-21 22:22:11 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/quartz_lavender": {
     "criteria": {
       "has_item": "2025-02-21 22:00:23 +0000"
@@ -10043,6 +10278,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/advanced_circuit": {
+    "criteria": {
+      "has_electronic_circuit": "2025-02-21 22:20:05 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/roof_tile_nether_brick_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2025-02-21 22:05:08 +0000"
@@ -10058,6 +10299,12 @@
   "betternether:recipes/building_blocks/nether_bricks_roof_tile_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-02-21 22:05:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lsu_storage": {
+    "criteria": {
+      "has_electronic_circuit": "2025-02-21 22:20:05 +0000"
     },
     "done": true
   },
@@ -10106,6 +10353,30 @@
   "techreborn:recipes/crafting_table/unit/tank/quantum_tank_unit": {
     "criteria": {
       "has_the_recipe": "2025-02-21 22:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-21 22:21:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/bewitchment/sign_post_elder": {
+    "criteria": {
+      "has_planks": "2025-02-21 22:11:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-21 22:21:04 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dragon_staff": {
+    "criteria": {
+      "has_item": "2025-02-21 22:08:02 +0000"
     },
     "done": true
   },
@@ -10163,15 +10434,33 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-21 22:21:04 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_sword": {
     "criteria": {
       "has_nether_quartz": "2025-02-21 22:00:23 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/frequency_transmitter": {
+    "criteria": {
+      "has_circuit": "2025-02-21 22:20:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-21 21:54:58 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-21 22:21:04 +0000"
     },
     "done": true
   },
@@ -10190,6 +10479,18 @@
   "twigs:recipes/rhyolite/rhyolite": {
     "criteria": {
       "has_item": "2025-02-21 22:00:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blaze_block": {
+    "criteria": {
+      "has_item": "2025-02-21 22:08:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/data_storage_core": {
+    "criteria": {
+      "has_electronic_circuit": "2025-02-21 22:20:05 +0000"
     },
     "done": true
   },
@@ -10229,9 +10530,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-02-21 22:21:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-02-21 22:00:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile": {
+    "criteria": {
+      "has_obsidian": "2025-02-21 22:21:04 +0000"
     },
     "done": true
   },
@@ -10241,9 +10554,21 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
+    "criteria": {
+      "has_skeleton_skull": "2025-02-21 22:22:11 +0000"
+    },
+    "done": true
+  },
   "rpg_series:classes": {
     "criteria": {
       "book": "2025-02-21 21:55:19 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/elder_sign": {
+    "criteria": {
+      "has_item": "2025-02-21 22:11:15 +0000"
     },
     "done": true
   },
