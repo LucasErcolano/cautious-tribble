@@ -3023,3 +3023,71 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [21:48:30] [Server thread/INFO]: Cataawa has made the advancement [Stone Age]
 [21:48:42] [Server thread/INFO]: LuScarlet has made the advancement [Path of Strength]
 [21:48:50] [Server thread/INFO]: Cataawa has made the advancement [Getting an Upgrade]
+[21:50:35] [Server thread/INFO]: [Handshake] Sending channel query
+[21:50:35] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[21:50:35] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[21:50:35] [Server thread/INFO]: 76hz[/127.89.186.47:36603] logged in with entity id 8057 at (94.57068313223232, 64.0, 171.54932473929793)
+[21:50:35] [Server thread/INFO]: Sending server config values to client
+[21:50:35] [Server thread/INFO]: Syncing config to 76hz (40ae40ee-0ffd-3c8c-8d98-efc3655ac159)
+[21:50:35] [Server thread/INFO]: Loading config from file...
+[21:50:35] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21:50:35] [Server thread/INFO]: 76hz joined the game
+[21:50:35] [Server thread/INFO]: Loading Configs for Sortilege
+[21:50:35] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[21:50:35] [Server thread/INFO]: Updating all forceload tickets for 40ae40ee-0ffd-3c8c-8d98-efc3655ac159
+[21:50:35] [Server thread/INFO]: PLAYER_JOIN
+[21:50:35] [Server thread/INFO]: add_player wand
+[21:50:35] [Server thread/INFO]: config sent
+[21:50:37] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[21:50:41] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: 76hz -> Global
+[21:50:41] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player 76hz. Claiming: GRAVE / Robbing: INVENTORY
+[21:50:44] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of 76hz accepted server config.
+[21:50:53] [Server thread/INFO]: Cataawa has made the advancement ['X' Marks the Spot]
+[21:52:32] [Server thread/INFO]: <76hz> 187 141
+[21:55:19] [Server thread/INFO]: 76hz has reached the goal [Choose your path]
+[21:56:46] [Server thread/INFO]: No return portal found
+[21:56:46] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of MiliHoffman accepted server config.
+[21:56:53] [Worker-Main-40/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:6.261377f,range:8,source:{pos:[I;-50,-59,-59],type:"minecraft:block"}}]
+[21:56:53] [spark-async-sampler-worker-thread/WARN]: Timed out waiting for world statistics
+[21:56:53] [Server thread/INFO]: MiliHoffman has made the advancement [Nether Depths Upgrade]
+[21:56:53] [Server thread/INFO]: MiliHoffman has made the advancement [We Need to Go Deeper]
+[21:56:53] [Server thread/INFO]: MiliHoffman has made the advancement [Time for a Sweat]
+[21:57:01] [Server thread/ERROR]: POI data mismatch: never registered at class_2338{x=28, y=84, z=39}
+[21:57:01] [Server thread/ERROR]: POI data mismatch: never registered at class_2338{x=16, y=92, z=38}
+[21:57:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14872ms or 297 ticks behind
+[21:57:02] [Server thread/INFO]: MiliHoffman has made the advancement [A Terrible Fortress]
+[21:57:05] [Server thread/INFO]: No return portal found
+[21:57:05] [Server thread/INFO]: 76hz has made the advancement [Nether Depths Upgrade]
+[21:57:05] [Server thread/INFO]: 76hz has made the advancement [We Need to Go Deeper]
+[21:57:05] [Server thread/INFO]: 76hz has made the advancement [Time for a Sweat]
+[21:57:06] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of 76hz accepted server config.
+[21:57:06] [Server thread/INFO]: 76hz has made the advancement [A Terrible Fortress]
+[21:57:13] [Server thread/INFO]: No return portal found
+[21:57:13] [Server thread/INFO]: Cataawa has made the advancement [Nether Depths Upgrade]
+[21:57:13] [Server thread/INFO]: Cataawa has made the advancement [We Need to Go Deeper]
+[21:57:13] [Server thread/INFO]: Cataawa has made the advancement [Time for a Sweat]
+[21:57:13] [Server thread/INFO]: Cataawa has made the advancement [A Terrible Fortress]
+[21:57:13] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Cataawa accepted server config.
+[21:58:05] [Server thread/INFO]: MiliHoffman was slain by Wither Skeleton
+[21:58:08] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of MiliHoffman accepted server config.
+[21:58:28] [Server thread/INFO]: No return portal found
+[21:58:28] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of MiliHoffman accepted server config.
+[21:58:40] [Server thread/INFO]: MiliHoffman claimed a grave belonging to MiliHoffman at 12, 56, -7, minecraft:the_nether
+[21:59:25] [Server thread/INFO]: Cataawa has made the advancement [Monster Hunter]
+[21:59:27] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_scorch Entity not found: 9292
+[21:59:28] [Server thread/INFO]: MiliHoffman was slain by Wither Skeleton
+[21:59:31] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of MiliHoffman accepted server config.
+[21:59:34] [Server thread/INFO]: Cataawa was slain by Wither Skeleton
+[21:59:37] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Cataawa accepted server config.
+[21:59:51] [Server thread/INFO]: No return portal found
+[21:59:51] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of MiliHoffman accepted server config.
+[21:59:53] [Server thread/INFO]: No return portal found
+[21:59:53] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Cataawa accepted server config.
+[22:00:14] [Server thread/INFO]: Cataawa claimed a grave belonging to Cataawa at -2, 56, -9, minecraft:the_nether
+[22:00:17] [Server thread/INFO]: MiliHoffman claimed a grave belonging to MiliHoffman at -17, 59, -6, minecraft:the_nether
+[22:00:30] [Server thread/INFO]: No return portal found
+[22:00:30] [Server thread/INFO]: LuScarlet has made the advancement [Nether Depths Upgrade]
+[22:00:30] [Server thread/INFO]: LuScarlet has made the advancement [We Need to Go Deeper]
+[22:00:30] [Server thread/INFO]: LuScarlet has made the advancement [Time for a Sweat]
+[22:00:30] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of LuScarlet accepted server config.
+[22:00:30] [Server thread/INFO]: LuScarlet has made the advancement [A Terrible Fortress]

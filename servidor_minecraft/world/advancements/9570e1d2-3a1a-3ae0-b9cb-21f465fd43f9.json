@@ -12325,6 +12325,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/redstone/elder_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-02-21 21:50:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-02-21 21:20:07 +0000"
@@ -12334,6 +12340,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-02-21 21:20:07 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/building_blocks/elder_planks": {
+    "criteria": {
+      "has_item": "2025-02-21 21:50:07 +0000"
     },
     "done": true
   },
@@ -12388,6 +12400,12 @@
   "betternether:recipes/tools/cincinnasite_pickaxe_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-02-21 21:20:07 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/elder_button": {
+    "criteria": {
+      "has_item": "2025-02-21 21:50:10 +0000"
     },
     "done": true
   },
@@ -12463,9 +12481,27 @@
     },
     "done": true
   },
+  "bewitchment:recipes/redstone/elder_door": {
+    "criteria": {
+      "has_item": "2025-02-21 21:50:10 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/elder_broom": {
+    "criteria": {
+      "has_item": "2025-02-21 21:50:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2025-02-21 21:12:24 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_novice_priest": {
+    "criteria": {
+      "bind": "2025-02-21 21:46:51 +0000"
     },
     "done": true
   },
@@ -12508,6 +12544,12 @@
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-02-21 21:12:24 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/elder_fence": {
+    "criteria": {
+      "has_item": "2025-02-21 21:50:10 +0000"
     },
     "done": true
   },
@@ -12580,6 +12622,12 @@
   "betterend:recipes/misc/copy_netherite_upgrade": {
     "criteria": {
       "has_diamond": "2025-02-21 21:20:07 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/building_blocks/elder_slab": {
+    "criteria": {
+      "has_item": "2025-02-21 21:50:10 +0000"
     },
     "done": true
   },
@@ -12709,9 +12757,27 @@
     },
     "done": true
   },
+  "bewitchment:recipes/building_blocks/elder_stairs": {
+    "criteria": {
+      "has_item": "2025-02-21 21:50:10 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/building_blocks/elder_wood": {
+    "criteria": {
+      "has_item": "2025-02-21 21:50:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-02-21 21:20:07 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/elder_fence_gate": {
+    "criteria": {
+      "has_item": "2025-02-21 21:50:10 +0000"
     },
     "done": true
   },
@@ -12781,6 +12847,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/redstone/elder_trapdoor": {
+    "criteria": {
+      "has_item": "2025-02-21 21:50:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-02-21 21:12:24 +0000"
@@ -12842,6 +12914,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/bewitchment/sign_post_elder": {
+    "criteria": {
+      "has_planks": "2025-02-21 21:50:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-21 21:09:27 +0000"
@@ -12869,6 +12947,12 @@
   "betterend:recipes/misc/copy_aeternium_upgrade": {
     "criteria": {
       "has_diamond": "2025-02-21 21:20:07 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:path_choose_warrior": {
+    "criteria": {
+      "book": "2025-02-21 21:48:42 +0000"
     },
     "done": true
   },
@@ -12929,6 +13013,12 @@
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2025-02-21 21:12:24 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/elder_sign": {
+    "criteria": {
+      "has_item": "2025-02-21 21:50:10 +0000"
     },
     "done": true
   },

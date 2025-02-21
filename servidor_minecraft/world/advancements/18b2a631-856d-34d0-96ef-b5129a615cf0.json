@@ -11716,9 +11716,63 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-02-21 21:53:41 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard_smithing": {
     "criteria": {
       "has_standard": "2025-02-21 21:39:54 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/smoking/cooked_duck": {
+    "criteria": {
+      "has_duck": "2025-02-21 21:54:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-02-21 21:53:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-02-21 21:53:41 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/campfire_cooking/cooked_duck": {
+    "criteria": {
+      "has_duck": "2025-02-21 21:54:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-02-21 21:53:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-02-21 21:53:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/tanks_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-02-21 21:53:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-02-21 21:53:41 +0000"
     },
     "done": true
   },
