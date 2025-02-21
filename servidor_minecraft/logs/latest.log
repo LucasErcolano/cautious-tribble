@@ -3017,3 +3017,9 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [21:37:12] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: Cataawa -> Global
 [21:37:12] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Cataawa. Claiming: GRAVE / Robbing: INVENTORY
 [21:37:17] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Cataawa accepted server config.
+[21:46:19] [Server thread/INFO]: Cataawa has made the advancement [Sweet Dreams]
+[21:46:51] [Server thread/INFO]: LuScarlet has made the advancement [Promise of Ascension]
+[21:46:51] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: paladins:priest isComplete: false
+[21:48:30] [Server thread/INFO]: Cataawa has made the advancement [Stone Age]
+[21:48:42] [Server thread/INFO]: LuScarlet has made the advancement [Path of Strength]
+[21:48:50] [Server thread/INFO]: Cataawa has made the advancement [Getting an Upgrade]

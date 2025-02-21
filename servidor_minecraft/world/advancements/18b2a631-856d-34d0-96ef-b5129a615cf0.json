@@ -11716,5 +11716,17 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-02-21 21:39:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/snifferplus/sign_post_stone_pine": {
+    "criteria": {
+      "has_planks": "2025-02-21 21:39:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
