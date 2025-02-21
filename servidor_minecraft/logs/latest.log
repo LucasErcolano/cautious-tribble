@@ -2930,3 +2930,43 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	... 29 more
 [21:17:34] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[21:20:07] [Server thread/INFO]: LuScarlet has made the advancement [Diamonds!]
+[21:20:11] [Server thread/INFO]: MiliHoffman was slain by Vindicator
+[21:20:13] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of MiliHoffman accepted server config.
+[21:21:44] [Server thread/INFO]: MiliHoffman claimed a grave belonging to MiliHoffman at 39, 30, 302, minecraft:overworld
+[21:22:40] [Server thread/INFO]: MiliHoffman has made the advancement [Stay dead]
+[21:22:43] [Server thread/INFO]: MiliHoffman has made the advancement [Source of Evil]
+[21:22:54] [Server thread/INFO]: 76hz lost connection: Disconnected
+[21:22:54] [Server thread/INFO]: 76hz left the game
+[21:22:54] [Server thread/INFO]: remove player wand
+[21:22:54] [Server thread/INFO]: Updating all forceload tickets for 40ae40ee-0ffd-3c8c-8d98-efc3655ac159
+[21:23:59] [Server thread/INFO]: Villager class_1646['Rocky'/67, l='ServerLevel[world]', x=176.07, y=77.50, z=121.49] died, message: 'Rocky was slain by Ghoul'
+[21:23:59] [Server thread/INFO]: Named entity class_1646['Rocky'/67, l='ServerLevel[world]', x=176.07, y=77.50, z=121.49] died: Rocky was slain by Ghoul
+[21:25:42] [Server thread/INFO]: Villager class_1646['Onita'/184, l='ServerLevel[world]', x=95.66, y=64.00, z=181.32] died, message: 'Onita was slain by Zombie'
+[21:25:42] [Server thread/INFO]: Named entity class_1646['Onita'/184, l='ServerLevel[world]', x=95.66, y=64.00, z=181.32] died: Onita was slain by Zombie
+[21:25:54] [Server thread/INFO]: Villager class_1646['Linwood'/183, l='ServerLevel[world]', x=95.70, y=64.00, z=181.18] died, message: 'Linwood was slain by Zombie'
+[21:25:54] [Server thread/INFO]: Named entity class_1646['Linwood'/183, l='ServerLevel[world]', x=95.70, y=64.00, z=181.18] died: Linwood was slain by Zombie
+[21:26:21] [Server thread/INFO]: Named entity class_1641['Linwood'/4112, l='ServerLevel[world]', x=91.68, y=64.00, z=179.99] died: Linwood was slain by LuScarlet
+[21:27:23] [Server thread/INFO]: Villager class_1646['Brandee'/1599, l='ServerLevel[world]', x=152.50, y=72.00, z=209.30] died, message: 'Brandee was slain by Zombie'
+[21:27:23] [Server thread/INFO]: Named entity class_1646['Brandee'/1599, l='ServerLevel[world]', x=152.50, y=72.00, z=209.30] died: Brandee was slain by Zombie
+[21:27:32] [Server thread/INFO]: Named entity class_1641['Onita'/4088, l='ServerLevel[world]', x=91.47, y=64.00, z=179.00] died: Onita was slain by LuScarlet
+[21:29:28] [Server thread/INFO]: [Handshake] Sending channel query
+[21:29:28] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[21:29:28] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[21:29:28] [Server thread/INFO]: Cataawa[/127.235.74.22:46483] logged in with entity id 4429 at (-4.5, 77.0, -1.5)
+[21:29:28] [Server thread/INFO]: Sending server config values to client
+[21:29:28] [Server thread/INFO]: Syncing config to Cataawa (850b2552-9544-3810-847b-47a965ba0fa3)
+[21:29:28] [Server thread/INFO]: Loading config from file...
+[21:29:28] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21:29:28] [Server thread/INFO]: Cataawa joined the game
+[21:29:28] [Server thread/INFO]: Loading Configs for Sortilege
+[21:29:28] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[21:29:28] [Server thread/INFO]: Updating all forceload tickets for 850b2552-9544-3810-847b-47a965ba0fa3
+[21:29:28] [Server thread/INFO]: PLAYER_JOIN
+[21:29:28] [Server thread/INFO]: add_player wand
+[21:29:28] [Server thread/INFO]: config sent
+[21:29:28] [Server thread/INFO]: Cataawa has made the advancement [Mythic Mobs]
+[21:29:31] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[21:29:36] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: Cataawa -> Global
+[21:29:36] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Cataawa. Claiming: GRAVE / Robbing: INVENTORY
+[21:29:41] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Cataawa accepted server config.

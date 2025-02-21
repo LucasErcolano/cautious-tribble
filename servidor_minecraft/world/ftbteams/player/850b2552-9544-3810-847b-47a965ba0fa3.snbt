@@ -1,0 +1,17 @@
+{
+	id: "850b2552-9544-3810-847b-47a965ba0fa3"
+	type: "player"
+	player_name: "Cataawa"
+	ranks: {
+		850b2552-9544-3810-847b-47a965ba0fa3: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Cataawa"
+		"ftbteams:description": ""
+		"ftbteams:color": "#B1FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
