@@ -2974,3 +2974,11 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[22:06:54] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_scorch Entity not found: 1836
+[22:07:00] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_scorch Entity not found: 1756
+[22:07:08] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_scorch Entity not found: 1803
+[22:07:21] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_scorch Entity not found: 1872
+[22:08:46] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_scorch Entity not found: 1919
+[22:10:24] [Server thread/INFO]: MiliHoffman was doomed to fall by Piglin Brute
+[22:10:27] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of MiliHoffman accepted server config.
+[22:10:58] [Server thread/INFO]: MiliHoffman claimed a grave belonging to MiliHoffman at 134, 77, 121, minecraft:overworld

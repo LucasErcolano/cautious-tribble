@@ -3723,12 +3723,14 @@
       "minecraft:blaze": "2025-02-21 22:00:44 +0000",
       "minecraft:skeleton": "2025-02-17 23:39:01 +0000",
       "minecraft:spider": "2025-02-17 23:33:36 +0000",
+      "minecraft:piglin_brute": "2025-02-23 22:04:28 +0000",
       "minecraft:slime": "2025-02-21 21:12:24 +0000",
       "minecraft:wither_skeleton": "2025-02-21 22:04:19 +0000",
       "minecraft:piglin": "2025-02-17 21:36:29 +0000",
       "minecraft:enderman": "2025-02-18 20:24:35 +0000",
       "minecraft:silverfish": "2025-02-18 20:16:27 +0000",
-      "minecraft:zombie": "2025-02-18 20:08:25 +0000"
+      "minecraft:zombie": "2025-02-18 20:08:25 +0000",
+      "minecraft:drowned": "2025-02-23 22:01:37 +0000"
     },
     "done": false
   },
@@ -12421,9 +12423,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-02-23 22:09:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-23 21:58:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-02-23 22:09:16 +0000"
     },
     "done": true
   },
